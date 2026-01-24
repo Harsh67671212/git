@@ -1,3 +1,3 @@
 # git
 this is my git repo
-Author - Harsh Yadav
+Author - Harsh (Bhel)
